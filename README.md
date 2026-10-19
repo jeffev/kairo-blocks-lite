@@ -25,6 +25,12 @@ self-contained `.tsx` file you can copy into any shadcn/ui project. MIT licensed
 > these sections plus team, blog, contact and newsletter blocks.
 > [Live demo of the full pack](https://kairo-blocks-demo.jeffev123.workers.dev).
 
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjeffev%2Fkairo-blocks-lite&project-name=kairo-blocks-lite&repository-name=kairo-blocks-lite&demo-title=Kairo%20Blocks%20Lite&demo-description=10%20free%20landing%20page%20blocks%20for%20Next.js%2C%20Tailwind%20CSS%204%20and%20shadcn%2Fui&demo-url=https%3A%2F%2Fkairo-blocks-lite.vercel.app)
+
+One click creates a copy of this repository in your GitHub account and deploys it to Vercel. No environment variables are needed. Live demo: https://kairo-blocks-lite.vercel.app
+
 ## Using a block in your project
 
 Your project needs Tailwind CSS 4 and shadcn/ui ([setup guide](https://ui.shadcn.com/docs/installation)).
